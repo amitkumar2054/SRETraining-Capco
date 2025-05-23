@@ -1,0 +1,1 @@
+(Get-Content "path\to\your\file.txt" | Measure-Object -Line).Lines
